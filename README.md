@@ -15,6 +15,6 @@ _________________________________________
 ![Four](https://github.com/Hoseinfi/web-page-person/blob/main/4.png)
 _________________________________________
 # Install
-- chanege codes in `web-page-person.html` :)
+- chanege codes in `index.html` :)
 _________________________________________
 my discord server : [JOIN](https://discord.gg/tckXBhv3Rw)
