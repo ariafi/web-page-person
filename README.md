@@ -12,7 +12,7 @@ _________________________________________
 ![One](https://github.com/Hoseinfi/web-page-person/blob/main/one.png)
 ![Two](https://github.com/Hoseinfi/web-page-person/blob/main/two.png)
 ![Three](https://github.com/Hoseinfi/web-page-person/blob/main/three.png)
-![Four](https://github.com/Hoseinfi/web-page-person/blob/main/four.png)
+![Four](https://github.com/Hoseinfi/web-page-person/blob/main/4.png)
 _________________________________________
 # Install
 - chanege codes in `web-page-person.html` :)
